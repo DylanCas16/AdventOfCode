@@ -1,8 +1,10 @@
+package Day3;
+
 import java.util.*;
 
 import static java.util.Collections.max;
 
-public class Day3 {
+public class Main {
     private static final Scanner line = new Scanner(System.in);
     private static final List<Integer> batteries = new ArrayList<>();
     private static int result = 0;

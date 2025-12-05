@@ -1,6 +1,8 @@
+package Day2;
+
 import java.util.*;
 
-public class Day2 {
+public class Main {
     private static final Scanner input = new Scanner(System.in);
     private static List<String> products;
     private static long result = 0;

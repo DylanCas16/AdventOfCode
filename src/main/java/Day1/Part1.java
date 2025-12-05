@@ -1,7 +1,9 @@
+package Day1;
+
 import java.util.Scanner;
 import static java.lang.Math.*;
 
-public class Day1 {
+public class Part1 {
     private static final Scanner line = new Scanner(System.in);
     private static int password = 0;
     private static int pointer = 50;
